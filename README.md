@@ -1,4 +1,4 @@
 # apnacollage-demo
 this is my first repository
 <br>
-author-ayush prajapati
+author-ayush prajapati (apna collage)
